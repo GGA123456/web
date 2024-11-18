@@ -12,5 +12,14 @@ body{
 background-color: #99f297;
   color #7890a8;
 font-family: "Cambria"
-  
+}
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  align-items: center;
+  padding: 16px;
+}
+a{
+  color: black;
 }
